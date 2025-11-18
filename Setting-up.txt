@@ -1,5 +1,23 @@
 # Setting up:
-# 1 Install cobra and a LP solver:
+# 1 Use the conda environment CSB2025 
+conda activate CSB2025
 
-conda install -c conda-forge glpk
-conda install -c conda-forge cobra
+# 2 Install cobra and a LP solver:
+conda install -c conda-forge glpk cobra
+
+
+# Alternatively:
+# - virtualenv (https://virtualenv.pypa.io/en/latest/)
+
+# Create a virtual environment for python 3.x
+virtualenv -p python3 tutorial
+
+# Activate the virtalenv
+source tutorial/bin/activate
+
+# Install the packages needed for this tutorial
+pip install jupyter cobra swiglpk
+
+
+cd cbm_tutorial
+
