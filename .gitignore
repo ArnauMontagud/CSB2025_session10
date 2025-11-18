@@ -1,4 +1,4 @@
 out/*.json
 out/*.tsv
-CBM_tutorial_solution.ipynb
+CBM_tutorial_solution*
 .ipynb_checkpoints/*
