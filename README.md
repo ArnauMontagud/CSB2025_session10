@@ -175,6 +175,6 @@ For questions, issues, or feedback regarding this tutorial:
 
 Click the badge below to launch the notebook in a free, cloud-based Binder environment (no installation needed, but with limited resources and a 10-minute inactivity timeout):
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ArnauMontagud/CSB2025_session10/master?filepath=CBM_tutorial.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ArnauMontagud/CSB2025_session10/HEAD?urlpath=%2Fdoc%2Ftree%2FCBM_tutorial.ipynb)
 
-**Note on Binder (as of September 2025):** Binder sessions have access to up to 2 GB of RAM. Sessions shut down after 10 minutes of inactivity but can run for up to 6 hours. See [Binder usage guidelines](https://mybinder.readthedocs.io/en/latest/user-guidelines.html) for details.
+**Note on Binder (as of November 2025):** Binder sessions have access to up to 2 GB of RAM. Sessions shut down after 10 minutes of inactivity but can run for up to 6 hours. See [Binder usage guidelines](https://mybinder.readthedocs.io/en/latest/user-guidelines.html) for details.
