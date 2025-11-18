@@ -1,0 +1,5 @@
+# Setting up:
+# 1 Install cobra and a LP solver:
+
+conda install -c conda-forge glpk
+conda install -c conda-forge cobra
