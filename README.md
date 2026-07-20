@@ -90,7 +90,7 @@ pip install -r requirements.txt
 conda activate CSB2025
 
 # if using virtual environment
-source cbm_env/bin/activate  # On Windows: cbm_env\Scripts\activate
+source csb2025_env/bin/activate  # On Windows: csb2025_env\Scripts\activate
 
 # start jupyter notebook
 jupyter notebook
